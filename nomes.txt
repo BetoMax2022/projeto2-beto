@@ -4,10 +4,31 @@ angular,
 spring;
 
 
-git init
+git init inicializa o versionamento em uma pasta qualquer
 git status
-git add nome.txt
-git restore
+git add nome.txt adiciona um aruivo para o versionamento
+git restore    arquivo voi modificado e restaura ele antes da modificação
+git add .   adiciona vários arquivos
 kkkkkkkkkkkkkkkkkkkkkk
 kkkkkkkkkkkkkkkkkkkkkkkkkkkk
 kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
+
+criando a primeira versão do codigo, se for a primeira vez ele vai pedir 
+autenticação do autor e um nome do contrário ele permitirá o commit
+git config --global user.email meuEmail@.com.br
+git config --global user.name " Meu nome aqui " 
+
+
+git commit -m "primeira vesao"
+user.email 
+user.nome
+
+agora precisamos criar um repositório na nuvem para para enviar esses arquivos
+usando o git push
+
+definindo para qual local o arquivo será enviado
+git remote add origin https://github.com/BetoMax2022/projeto2-beto
+
+ git push --set-upstream origin master
+ 
+ Uma nova versão nessa linha aqui ............ e verificar modificação e adicionar ao versionamento no codigo
