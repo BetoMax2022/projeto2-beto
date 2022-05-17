@@ -32,3 +32,5 @@ git remote add origin https://github.com/BetoMax2022/projeto2-beto
  git push --set-upstream origin master
  
  Uma nova versão nessa linha aqui ............ e verificar modificação e adicionar ao versionamento no codigo
+ 
+ git commit -m "segunda versão do projeto"   modificamos o arquivo e agora gerando uma nova verão com o commit
