@@ -1,0 +1,13 @@
+java,
+javascript,
+angular,
+spring;
+
+
+git init
+git status
+git add nome.txt
+git restore
+kkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkk
+kkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkkk
